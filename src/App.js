@@ -27,7 +27,7 @@ function App() {
       {/* <Page.Page1 />
       <Page.Page2 /> */}
 
-      {/* <LayoutComponent></LayoutComponent> */}
+      <LayoutComponent></LayoutComponent>
       {/* <MyComponent.MyComponent></MyComponent.MyComponent>
       <MyComponent2.MyComponent2></MyComponent2.MyComponent2> */}
       {/* <Timer.Clock />
